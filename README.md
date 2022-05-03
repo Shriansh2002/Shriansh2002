@@ -1,6 +1,10 @@
 Hi 👋 My name is Shriansh Agarwal ! 
 ===================================  
-I am a self-taught web developer. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.  * 🌍  I'm based in India 🇮🇳 * 🖥️  See my portfolio at [Here](http://shriansh-agarwal.pages.dev) * 🧠  I'm learning Web 3.0 * 🤝  I'm open to collaborating on Interesting Projects
+I am a self-taught web developer. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.  
+* 🌍  I'm based in India 🇮🇳 
+* 🖥️  See my portfolio at [Here](http://shriansh-agarwal.pages.dev) 
+* 🧠  I'm learning Web 3.0 
+* 🤝  I'm open to collaborating on Interesting Projects
 
 ### Skills
 
