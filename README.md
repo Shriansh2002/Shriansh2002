@@ -40,3 +40,7 @@ I am a self-taught web developer. My passion for software lies with dreaming up 
 ![Shriansh's Github Streaks](https://github-readme-streak-stats.herokuapp.com/?user=shriansh2002&theme=highcontrast&ring=D8397C&fire=D8397C&currStreakLabel=D8397C)
 
 ![Shriansh's Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shriansh2002&theme=radical)
+
+### My Holopin Board
+
+[![@shrianshagarwal's Holopin board](https://holopin.me/shrianshagarwal)](https://holopin.io/@shrianshagarwal)
