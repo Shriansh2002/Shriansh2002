@@ -39,8 +39,6 @@ I am a self-taught web developer. My passion for software lies with dreaming up 
 
 ![Shriansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shriansh2002&count_private=true&show_icons=true&theme=radical)
 
-![Shriansh's Github Streaks](https://github-readme-streak-stats.herokuapp.com/?user=shriansh2002&theme=highcontrast&ring=D8397C&fire=D8397C&currStreakLabel=D8397C)
-
 ![Shriansh's Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shriansh2002&theme=radical)
 
 ### My Holopin Board
